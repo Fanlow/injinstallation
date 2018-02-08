@@ -1032,7 +1032,7 @@ body {
   margin: 0 auto;
 }
 .cid-qJ0dpL9ubD .full-count-container {
-  background: #000000;
+  background: #232323;
 }
 @media (min-width: 992px) and (max-width: 1200px) {
   .cid-qJ0dpL9ubD .dot {
@@ -1100,7 +1100,7 @@ body {
 .cid-qJ0pEqjip5 {
   padding-top: 60px;
   padding-bottom: 45px;
-  background-color: #000000;
+  background-color: #232323;
 }
 .cid-qJ0pEqjip5 .block-title B {
   color: #ffffff;
@@ -1111,8 +1111,8 @@ body {
 .cid-qJ6jmcy1iI {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #000000;
-  background: linear-gradient(#000000, #000000);
+  background-color: #232323;
+  background: linear-gradient(#232323, #232323);
 }
 .cid-qJ6jmcy1iI .carousel-control {
   background: #000;
@@ -1929,7 +1929,7 @@ body {
 .cid-qIZPZwbhrW {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #000000;
+  background-color: #232323;
 }
 @media (max-width: 767px) {
   .cid-qIZPZwbhrW .content {
@@ -2686,6 +2686,96 @@ body {
     text-align: center;
   }
 }
+.cid-qJ6oHbRLLF {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #232323;
+}
+@media (max-width: 767px) {
+  .cid-qJ6oHbRLLF .content {
+    text-align: center;
+  }
+  .cid-qJ6oHbRLLF .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+.cid-qJ6oHbRLLF .img-logo img {
+  height: 6rem;
+}
+.cid-qJ6oHbRLLF .block .form-control {
+  padding: 1.07em 1.07em;
+}
+.cid-qJ6oHbRLLF .input {
+  margin-bottom: 1rem;
+}
+.cid-qJ6oHbRLLF [type="email"] {
+  font-size: .75rem;
+  margin-bottom: 5px;
+  text-align: center;
+  min-width: 150px;
+}
+.cid-qJ6oHbRLLF .input-group-btn {
+  display: inline-block;
+}
+.cid-qJ6oHbRLLF .input-group-btn a.btn {
+  margin: 0 !important;
+}
+.cid-qJ6oHbRLLF .input-group {
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cid-qJ6oHbRLLF [type="submit"] {
+  padding: .75rem 1.5625rem !important;
+  text-transform: none;
+}
+.cid-qJ6oHbRLLF .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.cid-qJ6oHbRLLF .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-qJ6oHbRLLF .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-qJ6oHbRLLF .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-qJ6oHbRLLF .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-qJ6oHbRLLF .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qJ6oHbRLLF .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-qJ6oHbRLLF .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-qJ6oHbRLLF form .input-group input.form-control,
+.cid-qJ6oHbRLLF form .input-group-btn .btn {
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
 .cid-qIZmspZMMK .navbar {
   padding: .5rem 0;
   background: #232323;
@@ -3267,25 +3357,27 @@ body {
   color: #4284df;
 }
 .cid-qJ1s9Xg4vF {
-  background-image: url("../../../assets/images/59c17a71a523b-1271x708.jpg");
+  background-image: url("../../../assets/images/homes-for-sale-dripping-springs-tx-headwaters-builders-david-weekley-1-2000x1125.jpg");
 }
 .cid-qJ1s9Xg4vF .media-container-column .btn-bgr {
   z-index: 0;
 }
-.cid-qJ1siYsalH {
+.cid-qJ1s9Xg4vF H1 {
+  text-align: center;
+}
+.cid-qJ6qWXHObK {
   padding-top: 60px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
-.cid-qJ1sphbQor {
-  padding-top: 30px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+.cid-qJ6qWXHObK .block-title DIV {
+  text-align: left;
+  color: #ffffff;
 }
 .cid-qJ1suFJBa0 {
-  padding-top: 135px;
+  padding-top: 30px;
   padding-bottom: 135px;
-  background-color: #18191b;
+  background-color: #232323;
 }
 .cid-qJ1suFJBa0 h4 {
   display: flex;
@@ -3369,6 +3461,101 @@ body {
     padding-left: 0;
     padding-top: 2rem;
   }
+}
+.cid-qJ6rUTSDE7 {
+  padding-top: 160px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/luxury-home-theater-system-2000x1333.jpg");
+}
+.cid-qJ6mDILRvD {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #232323;
+}
+@media (max-width: 767px) {
+  .cid-qJ6mDILRvD .content {
+    text-align: center;
+  }
+  .cid-qJ6mDILRvD .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+.cid-qJ6mDILRvD .img-logo img {
+  height: 6rem;
+}
+.cid-qJ6mDILRvD .block .form-control {
+  padding: 1.07em 1.07em;
+}
+.cid-qJ6mDILRvD .input {
+  margin-bottom: 1rem;
+}
+.cid-qJ6mDILRvD [type="email"] {
+  font-size: .75rem;
+  margin-bottom: 5px;
+  text-align: center;
+  min-width: 150px;
+}
+.cid-qJ6mDILRvD .input-group-btn {
+  display: inline-block;
+}
+.cid-qJ6mDILRvD .input-group-btn a.btn {
+  margin: 0 !important;
+}
+.cid-qJ6mDILRvD .input-group {
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cid-qJ6mDILRvD [type="submit"] {
+  padding: .75rem 1.5625rem !important;
+  text-transform: none;
+}
+.cid-qJ6mDILRvD .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.cid-qJ6mDILRvD .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-qJ6mDILRvD .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-qJ6mDILRvD .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-qJ6mDILRvD .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-qJ6mDILRvD .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qJ6mDILRvD .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-qJ6mDILRvD .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-qJ6mDILRvD form .input-group input.form-control,
+.cid-qJ6mDILRvD form .input-group-btn .btn {
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
 }
 .cid-qJ65Jc7JAE {
   padding-top: 135px;
@@ -4104,6 +4291,96 @@ body {
   .cid-qJ6aGaaOoX p.mbr-text {
     text-align: center;
   }
+}
+.cid-qJ6oRSwlb6 {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #232323;
+}
+@media (max-width: 767px) {
+  .cid-qJ6oRSwlb6 .content {
+    text-align: center;
+  }
+  .cid-qJ6oRSwlb6 .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+.cid-qJ6oRSwlb6 .img-logo img {
+  height: 6rem;
+}
+.cid-qJ6oRSwlb6 .block .form-control {
+  padding: 1.07em 1.07em;
+}
+.cid-qJ6oRSwlb6 .input {
+  margin-bottom: 1rem;
+}
+.cid-qJ6oRSwlb6 [type="email"] {
+  font-size: .75rem;
+  margin-bottom: 5px;
+  text-align: center;
+  min-width: 150px;
+}
+.cid-qJ6oRSwlb6 .input-group-btn {
+  display: inline-block;
+}
+.cid-qJ6oRSwlb6 .input-group-btn a.btn {
+  margin: 0 !important;
+}
+.cid-qJ6oRSwlb6 .input-group {
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cid-qJ6oRSwlb6 [type="submit"] {
+  padding: .75rem 1.5625rem !important;
+  text-transform: none;
+}
+.cid-qJ6oRSwlb6 .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.cid-qJ6oRSwlb6 .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-qJ6oRSwlb6 .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-qJ6oRSwlb6 .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-qJ6oRSwlb6 .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-qJ6oRSwlb6 .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qJ6oRSwlb6 .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-qJ6oRSwlb6 .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-qJ6oRSwlb6 form .input-group input.form-control,
+.cid-qJ6oRSwlb6 form .input-group-btn .btn {
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
 }
 .cid-qJ6dPmoTQP {
   padding-top: 120px;
